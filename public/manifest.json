@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Hahnbee Lee",
+  "lang": "en-US",
+  "description": "Hahnbee Lee's portfolio.",
   "icons": [
     {
       "src": "favicon.ico",

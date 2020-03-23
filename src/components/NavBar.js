@@ -1,5 +1,5 @@
 import React from 'react';
-import '../uikit/css/uikit.min.css';
+
 class NavBar extends React.Component {
     render() {
         return(
